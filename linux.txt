@@ -1,0 +1,42 @@
+Q) Whats the use of echo command?
+A) outputs the string that are passed as arguments
+eg: echo 'Hello world'
+
+Q)how to check name of computer or host?
+A)hostname
+
+Q)Check current user 
+A)whoami
+
+Q)directory you are currently working in?
+A)pwd
+
+Q)create or edit a file
+A)touch to create then vi or vim to edit
+
+Q)rename a file
+A)mv oldname newname
+
+Q)search for string in a file
+A)grep word filename -> returns the whole line where it occured
+
+Q)get ip address
+A)ipconfig
+
+Q)Read top n lines of a file
+A)head -n filename
+
+Q)last n lines of a file
+A)tail -n filename
+
+Q)list all hidden files
+Q)ls -la
+
+Q)what is root
+A)admin or super user -> we use cd/ to go to root directory
+
+Q)find location of a file
+A)locate filename or find specific_directory/ -name filename
+
+Q)counting words and lines in a file
+A)wc filename -> if only no of lines req. => wc -l filename
